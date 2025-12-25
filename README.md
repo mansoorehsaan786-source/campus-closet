@@ -95,7 +95,7 @@
   <h3>Contact Us</h3>
   <p style="text-align:center;">
     Instagram: <b>@campuscloset</b><br />
-    WhatsApp: <b>+91-XXXXXXXXXX</b><br />
+    WhatsApp: <b>+91-9622017741</b><br />
     Location: Aligarh (Online Store)
   </p>
 </section>
